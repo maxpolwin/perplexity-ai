@@ -95,7 +95,7 @@ If you find this project helpful, consider supporting us by making a donation. Y
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <h2> Acknowledgments</h2>
-
+npm 
 A big thank you to the open-source community for providing amazing tools and libraries that made this project possible.
 
 > [!NOTE]
